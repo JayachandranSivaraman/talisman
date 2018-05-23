@@ -1,0 +1,1 @@
+INSERT INTO "public"."applications_jobs"(application_id,job_id) VALUES(222222, 22222);
